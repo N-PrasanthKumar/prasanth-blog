@@ -5,9 +5,9 @@ A full-stack Blog Platform built with **Flask** (backend) and **React** (fronten
 ## Getting Started
 
 Follow these steps to run the project locally:
-
+   ```bash
 ### Backend (Flask)
-
+   ```bash
 1. Navigate to the backend directory:  
    ```bash
    cd backend
@@ -24,7 +24,7 @@ Follow these steps to run the project locally:
    python app.py
 
 
-### frontend(react)
+### Frontend (react)
 
 1.   Navigate to the frontend directory:
    ```bash
