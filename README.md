@@ -56,7 +56,7 @@ The frontend of the Blog Platform is built using **React.js**. It is simple and 
 - After registration, the user can log in using their details.
 - Once logged in, the user will be redirected to the **Dashboard**.
 
-![Login Page](images/screenshot (2).png)
+![Login Page](https://github.com/N-PrasanthKumar/prasanth-blog/blob/main/images/Screenshot%20(2).png)
 
 ---
 
@@ -69,7 +69,7 @@ The frontend of the Blog Platform is built using **React.js**. It is simple and 
   - **Edit** posts
   - **Delete** posts
 
-![Dashboard](images/screenshot (4).png)
+![Dashboard](https://github.com/N-PrasanthKumar/prasanth-blog/blob/main/images/Screenshot%20(4).png)
 
 ---
 
@@ -83,7 +83,7 @@ The frontend of the Blog Platform is built using **React.js**. It is simple and 
   - Image (from the `images` folder)
 - After submitting, the new post will appear on the home page or in the user’s dashboard.
 
-![Create Post](images/screenshot (6).png)
+![Create Post](https://github.com/N-PrasanthKumar/prasanth-blog/blob/main/images/Screenshot%20(5).png)
 
 ---
 
@@ -93,7 +93,7 @@ The frontend of the Blog Platform is built using **React.js**. It is simple and 
 - By clicking on a tag, the user can see posts related only to that tag.
 - This helps users find posts based on topics easily.
 
-![Tag Filter](images/screenshort(16).png)
+![Tag Filter](https://github.com/N-PrasanthKumar/prasanth-blog/blob/main/images/Screenshot%20(15).png)
 
 ---
 
