@@ -69,7 +69,7 @@ The frontend of the Blog Platform is built using **React.js**. It is simple and 
   - **Edit** posts
   - **Delete** posts
 
-![Dashboard](https://github.com/N-PrasanthKumar/prasanth-blog/blob/main/images/Screenshot%20(4).png)
+![Dashboard](https://github.com/N-PrasanthKumar/prasanth-blog/blob/main/images/Screenshot%20(9).png)
 
 ---
 
