@@ -83,7 +83,7 @@ The frontend of the Blog Platform is built using **React.js**. It is simple and 
   - Image (from the `images` folder)
 - After submitting, the new post will appear on the home page or in the user’s dashboard.
 
-![Create Post](https://github.com/N-PrasanthKumar/prasanth-blog/blob/main/images/Screenshot%20(5).png)
+![Create Post](https://github.com/N-PrasanthKumar/prasanth-blog/blob/main/images/Screenshot%20(7).png)
 
 ---
 
@@ -97,9 +97,3 @@ The frontend of the Blog Platform is built using **React.js**. It is simple and 
 
 ---
 
-### Summary
-
-- Anyone can view blogs without logging in.  
-- Only registered users can **create**, **edit**, **delete**, or **comment**.  
-- Images used in posts are taken from the `images` folder.  
-- After login, the **dashboard** displays all user activities and allows managing posts easily.
